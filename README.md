@@ -10,9 +10,6 @@ Tu verras dans la console :
     AVANT (code généré, N+1)  -> requêtes SQL : 10 001 | temps : ... ms
     APRÈS (JOIN FETCH)        -> requêtes SQL : 1      | temps : ... ms
 
-Note ces chiffres (ils dépendent de ta machine) et mets-les dans la slide 6.
-Fais une capture d'écran de la console : c'est ta preuve.
-
 ## Lancer les tests
     mvn test
 
